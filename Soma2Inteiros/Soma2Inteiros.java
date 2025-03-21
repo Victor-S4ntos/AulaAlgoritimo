@@ -11,6 +11,9 @@ public class Soma2Inteiros{
         int resultado2 = 0;
         int resultadoFinal = 0;
 
+        //Não deixar conta logada na porra do pc da faculdadeeee
+        //Não deixar conta logada na porra do pc da faculdadeeee
+
 
         while (true) {
             System.out.println("Não deixar conta logada na porra do pc da faculdadeeee");
