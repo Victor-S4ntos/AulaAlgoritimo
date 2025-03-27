@@ -10,7 +10,7 @@ public class Exercicio1{
         int valor4 = 0;
         int resultado2 = 0;
         int resultadoFinal = 0;
-        
+
         System.out.println("Digite o primeiro valor");
         valor1 = scn.nextInt();
         System.out.println("Digite o segundo valor");
@@ -29,5 +29,6 @@ public class Exercicio1{
 
         resultadoFinal = resultado1 + resultado2;
         System.out.println("resultado: " + resultadoFinal);
+        scn.close();
     }
 }

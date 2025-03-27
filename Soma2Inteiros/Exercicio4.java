@@ -32,5 +32,6 @@ public class Exercicio4{
 
         resultadoFinal = resultado1 + resultado2;
         System.out.println("resultado: " + resultadoFinal);
+        scn.close();
     }
 }
